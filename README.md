@@ -39,6 +39,7 @@ Installation
 
 There is no installation required for the game. Simply visit our website in your web browser, and you can start playing the 2048 game immediately.
 Contributing
+https://dhyanpatel-python.github.io/2048-Game/
 
 We welcome contributions to enhance and improve the 2048 game. If you're interested in contributing, follow these steps:
 
