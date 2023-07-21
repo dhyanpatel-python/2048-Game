@@ -3,12 +3,12 @@
 Welcome to our 2048 game website! This website allows you to play the popular puzzle game 2048 right in your web browser. This README file will provide you with all the necessary information to understand, set up, and contribute to the project.
 Table of Contents
 
-    Introduction
-    Game Description
-    How to Play
-    Features
-    Installation
-    Contributing
+  1.  Introduction
+  2.  Game Description
+  3.  How to Play
+  4.  Features
+  5.  Installation
+  6.  Contributing
 
 Introduction
 
@@ -42,11 +42,11 @@ Contributing
 
 We welcome contributions to enhance and improve the 2048 game. If you're interested in contributing, follow these steps:
 
-    Fork the repository to your GitHub account.
-    Create a new branch with a descriptive name for your feature or bug fix.
-    Make your changes and additions to the codebase.
-    Test your changes to ensure they are working correctly.
-    Commit your changes and push them to your fork.
-    Create a pull request from your branch to the main repository's "master" branch.
-    Provide a clear and descriptive explanation of your changes in the pull request.
-    We will review your contribution and merge it if everything looks good.
+  1.  Fork the repository to your GitHub account.
+  2.  Create a new branch with a descriptive name for your feature or bug fix.
+  3.  Make your changes and additions to the codebase.
+  4.  Test your changes to ensure they are working correctly.
+  5.  Commit your changes and push them to your fork.
+  6.  Create a pull request from your branch to the main repository's "master" branch.
+  7.  Provide a clear and descriptive explanation of your changes in the pull request.
+  8.  We will review your contribution and merge it if everything looks good.
